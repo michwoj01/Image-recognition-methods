@@ -1,0 +1,5 @@
+names:
+- Food
+nc: 1
+train: images/train
+val: images/validation
